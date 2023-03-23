@@ -4,7 +4,7 @@
     "timer_switch_ads":"1000",
     "interval_native":3,
     "interval":0,
-    "admob_inter": "",
+    "admob_inter": "1",
     "admob_nativ": "",
     "admob_banner": "",
     "admob_openads": "",
